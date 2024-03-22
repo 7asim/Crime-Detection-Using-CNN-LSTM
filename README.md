@@ -10,7 +10,7 @@ We utilized the [UCF Crime Dataset](https://www.kaggle.com/datasets/odins0n/ucf-
 **Model Architecture**
 Our crime detection model comprises two main components: a CNN for processing image frames extracted from video clips and an LSTM for analyzing textual descriptions associated with the videos. The CNN processes the visual information, while the LSTM handles the textual data.
 
-** Implementation**
+**Implementation**
 - We used TensorFlow and Keras to build and train our model.
 - For the CNN, we designed a deep architecture consisting of multiple convolutional layers followed by max-pooling layers. We also included dropout layers for regularization.
 - The LSTM model was designed to process textual descriptions associated with each video clip. We tokenized and padded the text sequences before feeding them into the LSTM.
