@@ -1,10 +1,5 @@
 # Crime-Detection-Using-CNN-LSTM
 
-To write a post for GitHub regarding the crime detection model using the UCF Crime Dataset, you can follow a structured approach that covers various aspects of the project. Here's a template you can use:
-
----
-
-## Crime Detection using CNN and LSTM
 
 **Introduction**
 In this project, we developed a crime detection system using Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. We trained our model on the UCF Crime Dataset, which contains videos of various criminal activities captured in different environments.
