@@ -2,12 +2,15 @@
 
 
 **Introduction**
+
 In this project, we developed a crime detection system using Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. We trained our model on the UCF Crime Dataset, which contains videos of various criminal activities captured in different environments.
 
 **Dataset**
+
 We utilized the [UCF Crime Dataset](https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset) from Kaggle, which consists of video clips categorized into different classes of criminal activities such as abuse, arson, assault, burglary, and more. Each video clip is labeled with one of the 14 crime categories.
 
 **Model Architecture**
+
 Our crime detection model comprises two main components: a CNN for processing image frames extracted from video clips and an LSTM for analyzing textual descriptions associated with the videos. The CNN processes the visual information, while the LSTM handles the textual data.
 
 **Implementation**
